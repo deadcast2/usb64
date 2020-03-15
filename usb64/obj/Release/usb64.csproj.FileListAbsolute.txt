@@ -1,0 +1,6 @@
+E:\projects\ED64-X\_tools\usb64\usb64\bin\Release\usb64.exe.config
+E:\projects\ED64-X\_tools\usb64\usb64\bin\Release\usb64.exe
+E:\projects\ED64-X\_tools\usb64\usb64\bin\Release\usb64.pdb
+E:\projects\ED64-X\_tools\usb64\usb64\obj\Release\usb64.exe
+E:\projects\ED64-X\_tools\usb64\usb64\obj\Release\usb64.pdb
+E:\projects\ED64-X\_tools\usb64\usb64\obj\Release\usb64.csprojAssemblyReference.cache
