@@ -35,6 +35,7 @@ namespace usb64
                     if (args[i].StartsWith("-rom"))
                     {
                         cmdLoadRom(args[i]);
+                        usbCmdStartApp();
                     }
 
                     if (args[i].StartsWith("-start"))
